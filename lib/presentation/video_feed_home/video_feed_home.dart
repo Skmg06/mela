@@ -1,24 +1,15 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:sizer/sizer.dart';
-import 'package:video_player/video_player.dart';
 
 import '../../core/app_export.dart';
-import '../../theme/app_theme.dart';
 import '../../widgets/custom_bottom_bar.dart';
-import '../../widgets/custom_icon_widget.dart';
 import './widgets/context_menu_widget.dart';
 import './widgets/engagement_actions_widget.dart';
 import './widgets/product_bottom_sheet_widget.dart';
 import './widgets/seller_info_widget.dart';
 import './widgets/video_description_widget.dart';
 import './widgets/video_player_widget.dart';
-import 'widgets/context_menu_widget.dart';
-import 'widgets/engagement_actions_widget.dart';
-import 'widgets/product_bottom_sheet_widget.dart';
-import 'widgets/seller_info_widget.dart';
-import 'widgets/video_description_widget.dart';
-import 'widgets/video_player_widget.dart';
 
 class VideoFeedHome extends StatefulWidget {
   const VideoFeedHome({super.key});

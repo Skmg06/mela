@@ -4,9 +4,6 @@ import 'package:sizer/sizer.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 import '../../../core/app_export.dart';
-import '../../../theme/app_theme.dart';
-import '../../../widgets/custom_icon_widget.dart';
-import '../../../widgets/custom_image_widget.dart';
 
 class ProductBottomSheetWidget extends StatefulWidget {
   final List<Map<String, dynamic>> products;

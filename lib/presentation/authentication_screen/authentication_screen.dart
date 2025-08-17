@@ -3,16 +3,10 @@ import 'package:flutter/services.dart';
 import 'package:sizer/sizer.dart';
 
 import '../../core/app_export.dart';
-import '../../theme/app_theme.dart';
-import '../../widgets/custom_icon_widget.dart';
 import './widgets/auth_input_field.dart';
 import './widgets/auth_tab_bar.dart';
 import './widgets/business_verification_form.dart';
 import './widgets/social_login_button.dart';
-import 'widgets/auth_input_field.dart';
-import 'widgets/auth_tab_bar.dart';
-import 'widgets/business_verification_form.dart';
-import 'widgets/social_login_button.dart';
 
 class AuthenticationScreen extends StatefulWidget {
   const AuthenticationScreen({super.key});
